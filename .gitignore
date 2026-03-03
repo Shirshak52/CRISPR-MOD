@@ -6,8 +6,6 @@
 *.mtx
 *.gz
 01_data/
-03_figures/
-04_results/
 
 # --- Python ---
 __pycache__/
