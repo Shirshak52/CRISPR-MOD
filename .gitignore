@@ -1,8 +1,6 @@
 # --- Data & Results ---
 *.h5ad
 *.h5
-*.csv
-*.tsv
 *.mtx
 *.gz
 01_data/
