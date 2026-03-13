@@ -167,4 +167,3 @@ dependencies:
           - websocket-client==1.9.0
           - widgetsnbextension==4.0.15
           - zarr==3.1.5
-prefix: C:\Users\Acer\miniforge3\envs\crisprmod_env
